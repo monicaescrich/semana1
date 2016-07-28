@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<header>
+	<title> Script 1 </title>
+	<meta charset="UTF-8">
+</header>
+
+<body>
+
+	<section>
+			<article>	
+
+				<h1><center>PROYECTO AQUILA</center></h1>
+			  	
+			  	<p align="justify">Una de las últimas fronteras que le quedaba a Facebook por cruzar es la de los drones. Al parecer, la empresa de Mark Zuckerberg ha decidido aventurarse también en este terreno y prepara una remesa de drones alimentados a base de energía solar que ayudarán a la red social a proporcionar acceso a los 5.000 millones de personas que aun no lo tienen. Esta iniciativa forma parte de Internet.org, el plan de Facebook para hacer que todo el mundo esté conetado.
+
+				Según publica The New York Times, el nombre en clave de este proyecto es Aquila, denominación que recibía el águila que en la mitología griega llevaba los rayos de Zeus. Estos drones podrán mantenerse en el aire sin pausa durante tres meses, serán más ligeros que un coche pequeño y tan grandes como un Boeing 767.
+
+				Aquila, podrá proporcionar acceso a la Red a más de 18.000 metros de altura y sus primeros vuelos de prueba empezarán este verano, aunque el desarrollo comercial del proyecto llevará años a la red social.
+
+				Facebook ha podido crear este dron gracias a la adquisición en 2014 de Ascenta, firma que ya había trabajado con este tipo de dispositivos alimentados por energía solar. Según publican algunos portales especializados, ahora la compañía de Mark Zuckerberg, está buscando colaboradores para que le ayuden con esta iniciativa.</p>
+
+			<br/>
+			<br/>
+			<figure>
+			  <img src="aquila.jpg" alt="Drone Aquila" >
+			</figure>
+			<br/>
+			<br/>
+			<p alighn="center">
+					En la actualidad unicamente el 43% de la poblacion mundial tiene acceso a internet, internet.org pretende reducir este porcentaje y permitir que llegue a mas personas el tan anhelado internet. 
+						<center><progress value="47" max="100">Porcentaje de personas con acceso a internet
+						</progress></center>
+			<p/>
+			</article>
+
+			<details>
+			  <summary>Todos los derechos 2016.</summary>
+			  <p>Hecho por Monica Escrich</p>
+			</details>
+
+	</section>
+  </body>
+</html>
